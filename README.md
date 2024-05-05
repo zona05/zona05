@@ -13,23 +13,18 @@
 <h2> / current skills / </h2>
   
 - <h4> languages </h4>
-  <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt = "cpp" />
-  <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt = "py" />
-  <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt = "js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   
   - <h5> currently learning </h5>
-    <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt = "c#" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   
 - <h4> hobbies </h4>
-  <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Blender-Dark.svg" alt = "blender" />
-  <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt = "html" />
-  <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt = "css" />
-  <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt = "discord" />
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   
   </br></br>
   
