@@ -29,7 +29,7 @@
   </br></br>
   
 <div align="right">
-<a href="">Image from the manga The Climber</a>
+
   </div>
   </div>
 
