@@ -2,16 +2,17 @@
 
 <div>
 
-<h2> / listening now /</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=javier.alonsop9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5fbc5c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=javier.alonsop9&redirect=true)
-
 <h2> / about me /</h2>
   
 - ⭐ currently studying Computer Science Engineering at UAH
 - 💀 mostly sleeping and coding
 - 👾 a **student** working his way around things
-  
+
+<h2> / listening now /</h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=javier.alonsop9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5fbc5c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=javier.alonsop9&redirect=true)
+
+
 <h2> / current skills / </h2>
   
 - <h4> languages </h4>
