@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.postimg.cc/tJz9r7Tx/just-finished-the-manga-v0-va1oi0sifjhc1-1.png"/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=javier.alonsop9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=5fbc5c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h2> / about me /</h2>
   
