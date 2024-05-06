@@ -30,9 +30,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   
   </br></br>
-## 3D Model Test
+## 3D Model :3
 ```stl
-solid zona-heart
+solid zona-name
 facet normal 0.000000 1.000000 0.000000
 outer loop
 vertex 45.992710 0.841103 -6.982623
