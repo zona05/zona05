@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   
   </br></br>
-## 3D Model Test
+## 3D Model :3
 ```stl
 solid zona-text
 facet normal 0.000000 0.000000 1.000000
