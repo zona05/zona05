@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   
   - <h5> currently learning </h5>
-    Improve the already known.
+    Improving the already known.
   
 - <h4> hobbies </h4>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
