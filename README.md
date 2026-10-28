@@ -1,6 +1,8 @@
 # Javier Alonso Pérez
 
-Estudiante de Ingeniería Informática (Universidad de Alcalá).
+Me mueve la curiosidad por entender cómo funcionan las cosas por dentro, destriparlas y llevarlas al máximo grado de optimización y personalización. 
+
+Esa misma obsesión la llevo a todo lo demás: la audiofilia y la fidelidad de imagen, la cinefilia, la literatura, el piano clásico, la criptografía o escribir ensayos.
 
 ---
 
