@@ -26,5 +26,5 @@ Estudiante de Ingeniería Informática (Universidad de Alcalá).
 - **Proyectos de Software y Sistemas:** [@buntaroumori](https://github.com/buntaroumori) *(Proyectos personales y desarrollo técnico)*
 
 <p align="center">
-  <sub>Madrid, España · Español (Nativo) · Inglés (C1 - Profesional) · Abierto a prácticas y posiciones junior</sub>
+  <sub>Español (Nativo) · Inglés (C1 - Profesional) · Abierto a prácticas y posiciones junior</sub>
 </p>
